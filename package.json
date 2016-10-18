@@ -1,0 +1,38 @@
+{
+  "name": "conventional-github-releaser-okta",
+  "version": "1.0.0",
+  "description": "Make a new GitHub release from git metadata",
+  "homepage": "https://github.com/alanzhou-okta/conventional-github-releaser",
+  "repository": "alanzhou-okta/conventional-github-releaser",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "dependencies": {
+    "conventional-changelog": "^1.1.0",
+    "dateformat": "^1.0.11",
+    "git-semver-tags": "^1.0.0",
+    "github": "^0.2.4",
+    "lodash.merge": "^4.0.2",
+    "meow": "^3.3.0",
+    "object-assign": "^4.0.1",
+    "q": "^1.4.1",
+    "semver": "^5.0.1",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "concat-stream": "^1.5.1",
+    "coveralls": "^2.11.2",
+    "github-remove-all-releases": "^1.0.0",
+    "istanbul": "^0.4.1",
+    "jscs": "^2.0.0",
+    "jshint": "^2.9.1",
+    "mocha": "*",
+    "shelljs": "^0.6.0"
+  },
+  "bin": {
+    "conventional-github-releaser-okta": "cli.js"
+  }
+}
