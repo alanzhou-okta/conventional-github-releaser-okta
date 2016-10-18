@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Make a new GitHub release from git metadata",
   "homepage": "https://github.com/alanzhou-okta/conventional-github-releaser",
-  "repository": "alanzhou-okta/conventional-github-releaser",
+  "repository": "alanzhou-okta/conventional-github-releaser-okta",
   "license": "MIT",
   "files": [
     "index.js",
