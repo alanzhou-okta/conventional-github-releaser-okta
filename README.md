@@ -19,6 +19,7 @@
 7. Push
 8. `conventionalGithubReleaser`
 
+Remember to use `-p atom` to parse our atom commit style and `--draft` to publish a draft release.
 
 ## License
 
