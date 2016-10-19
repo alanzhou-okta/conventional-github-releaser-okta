@@ -2,7 +2,14 @@
 
 **Note** This is an extension of conventional-changelog/conventional-gihub-releaser. Check out the original repo [here](https://github.com/conventional-changelog/conventional-github-releaser)
 
-[Set up a token first](#setup-token-for-cli).
+## Quick Setup
+  * [Set up a token first](#setup-token-for-cli).
+  * npm install -g (in the root directory for this repo)
+  * Bump package.json 
+  * Commit package.json
+  * Tag with 'git tag'
+  * Push to master
+  * conventional-github-releaser-okta -p atom --draft 
 
 ## Setup token for cli
 
