@@ -16,6 +16,8 @@ We use a simplified form of [Atom](https://github.com/atom/atom/blob/master/CONT
     <emoji> Short Description of Commit
     <BLANKLINE>
     More detailed description of commit
+    <BLANKLINE>
+    Resolves: <Jira # or Issue #>
 
 #### Emoji Categories
 Our categories include:
@@ -35,4 +37,6 @@ If you do not see an exact emoji match, use the best matching emoji.
 
     Update Contributing.md with new emoji categories
     Update Contributing.md with new template 
+    
+    Resolves: OKTA-12345
 
