@@ -21,8 +21,9 @@ We use a simplified form of [Atom](https://github.com/atom/atom/blob/master/CONT
 
 #### Emoji Categories
 Our categories include:
+  * :package: `:package` when pushing new release
   * :art: `:art:` when improving the format/structure of the code
-  * :package: `:package`: when creating a new feature
+  * :seedling: `:seedling`: when creating a new feature
   * :memo: `:memo:` when writing docs
   * :bug: `:bug:` when fixing a bug
   * :fire: `:fire:` when removing code or files
