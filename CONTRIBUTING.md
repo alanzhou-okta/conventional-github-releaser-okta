@@ -30,3 +30,9 @@ Our categories include:
     
 If you do not see an exact emoji match, use the best matching emoji.
 
+#### Example
+📝 Update CONTRIBUTING.md
+
+Update Contributing.md with new emoji categories
+Update Contributing.md with new template 
+
